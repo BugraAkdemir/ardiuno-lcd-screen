@@ -11,5 +11,6 @@ Requirements
 
 Circuit View
 -
+- ![Ekran görüntüsü 2024-04-08 143603](https://github.com/Zylles/ardiuno-lcd-screen/assets/156844892/96d800f5-8a92-4381-bef4-a2db98775126)
 
-    
+- 
